@@ -2,4 +2,4 @@
 
 First repo on rust... Learning from https://doc.rust-lang.org/book/ 
 
-*more to come*
+*more projecs to come...*
